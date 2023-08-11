@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Adil Sanjrani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="C:\github\git")
+(img align="right"  width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1Fqxq7Ap3xFS78eiOOKkDl&ust=1691882537756000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiKjcve39WAAxXS5zgGHekyAGsQjRx6BAgAEAw")
 
 
 
