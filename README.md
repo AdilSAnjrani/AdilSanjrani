@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Adil Sanjrani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://pin.it/4I7xCVy")
+(img align="right" alt="Coding" width="400" src="C:\github\git")
 
- <img src="C:\github\git" alt="adilsanjrani" /> 
+
 
 
 <p align="left"> <a href="https://twitter.com/adilsanjrani" target="blank"><img src="https://img.shields.io/twitter/follow/adilsanjrani?logo=twitter&style=for-the-badge" alt="adilsanjrani" /></a> </p>
