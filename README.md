@@ -1,7 +1,6 @@
 
 ![693509](https://github.com/AdilSAnjrani/AdilSanjrani/assets/136191595/8c21734a-3b32-4807-91d2-1d3bdff43396)
 
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Adil Sanjrani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
