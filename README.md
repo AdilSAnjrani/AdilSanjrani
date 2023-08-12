@@ -5,11 +5,6 @@
 <h1 align="center">Hi 👋, I'm Adil Sanjrani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-
-
-
-<img align="right" alt="coding" width="300" src=![git](https://github.com/AdilSAnjrani/AdilSanjrani/assets/136191595/242bcc48-00ca-4606-9443-4e9af026f8d0)>
-
 <p align="left"> <a href="https://twitter.com/adilsanjrani" target="blank"><img src="https://img.shields.io/twitter/follow/adilsanjrani?logo=twitter&style=for-the-badge" alt="adilsanjrani" /></a> </p>
 
 - 🔭 I’m currently working on [cryptonewsinn](https://cryptonewsinn.com/)
