@@ -1,11 +1,14 @@
-### Hi there 👋
 
+![693509](https://github.com/AdilSAnjrani/AdilSanjrani/assets/136191595/8c21734a-3b32-4807-91d2-1d3bdff43396)
+
+## Hi there 👋
 <h1 align="center">Hi 👋, I'm Adil Sanjrani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-(img align="right"  width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1Fqxq7Ap3xFS78eiOOKkDl&ust=1691882537756000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiKjcve39WAAxXS5zgGHekyAGsQjRx6BAgAEAw")
 
 
 
+
+<img align="right" alt="coding" width="300" src=![git](https://github.com/AdilSAnjrani/AdilSanjrani/assets/136191595/242bcc48-00ca-4606-9443-4e9af026f8d0)>
 
 <p align="left"> <a href="https://twitter.com/adilsanjrani" target="blank"><img src="https://img.shields.io/twitter/follow/adilsanjrani?logo=twitter&style=for-the-badge" alt="adilsanjrani" /></a> </p>
 
